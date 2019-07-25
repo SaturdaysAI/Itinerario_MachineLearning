@@ -5,14 +5,17 @@ __Para poder graduarse en el programa AI Saturdays, con la mención "_Machine Le
 Está pensado para representar poco más del 50% del contenido de la fase "_code2learn_" en AI Saturdays.
 
 
-- Sesion 1
-- Sesion 2
-- Sesion 3
-- Sesion 4
-- Sesion 5
-- Sesion 6
-- Sesion 7
+- Sesion 1: Notebook, slides, video.
+- Sesion 2: Notebook, slides, video.
+- Sesion 3: Notebook, slides, video.
+- Sesion 4: Notebook, slides, video.
+- Sesion 5: Notebook, slides, video.
+- Sesion 6: Notebook, slides, video.
+- Sesion 7: Notebook, slides, video.
 
 _Extras_:
+- Sesion Adicional 1: Notebook, slides, video.
+- Sesion Adicional 2: Notebook, slides, video.
+- Sesion Adicional 3: Notebook, slides, video.
 
-Resto de sesiones estaran dedicadas a la fase "_build2learn_", ver proyectos de otras ediciones [aqui](github.com/saturdasai/projects)
+Resto de sesiones hasta el ___Demo Day___ estaran dedicadas a la fase "_build2learn_", ver proyectos de otras ediciones [aqui](github.com/saturdasai/projects)
