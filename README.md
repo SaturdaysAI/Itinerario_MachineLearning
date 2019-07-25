@@ -2,7 +2,7 @@
 ### Itinerario oficial Machine Learning - Saturdays.ai
 
 __Para poder graduarse en el programa AI Saturdays, con la mención "_Machine Learning_", hay que superar al menos el contenido de este itinerario.
-Está pensado para representar poco más del 50% del contenido de la fase "_code2learn_" en AI Saturdays.
+Está pensado para representar poco más del 50% del contenido de la fase "_code2learn_" en AI Saturdays.__
 
 
 - Sesion 1: Notebook, slides, video.
