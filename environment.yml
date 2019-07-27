@@ -1,0 +1,19 @@
+# Create environment:
+# $ conda env create --name good --force
+name: good
+channels:
+  - conda-forge
+dependencies:
+  - python==3.6
+  - jupyter
+  - numpy
+  - pandas
+  - requests
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - pip:
+    - graphviz
+    - git+https://github.com/stroxler/batch_nbconvert
+    
