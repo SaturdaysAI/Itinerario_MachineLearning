@@ -2,7 +2,7 @@
 ### Itinerario oficial Machine Learning - Saturdays.ai
 
 Para trabajar con los notebooks puedes:
-1) clonar en tu equipo este contenido: <git clone https://github.com/SaturdaysAI/Itinerario_MachineLearning/>
+1) clonar en tu equipo este contenido: <[!git clone https://github.com/SaturdaysAI/Itinerario_MachineLearning/]>
 2) Ejecutarlo con Google Colab online pulsando este boton:
 3) Ejectuarlo con Jupyter online pulsando este boton: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SaturdaysAI/Itinerario_MachineLearning/master)
 
