@@ -25,8 +25,8 @@ _Extras_:
 - Sesion Adicional 2: Notebook, slides, video.
 - Sesion Adicional 3: Notebook, slides, video.
 
-Resto de sesiones hasta el ___Demo Day___ estaran dedicadas a la fase "_build2learn_", ver proyectos de otras ediciones [aqui](http://github.com/saturdaysai/projects)
+Resto de sesiones hasta el ___Demo Day___ están dedicadas a la fase "_build2learn_", donde construiras un proyecto abierto con impacto social utilizando _deep learning_, puedes ver proyectos de otras ediciones [aqui](http://github.com/saturdaysai/projects)
 
 Este itinerario está inspirado en los cursos de "Intro to Machine Learning for Coders" de Fast.ai y "Machine Learning for good" de Delta Analytics.
 
-Igualmente, sientete libre de compartir o proponer mejoras.
+Igualmente, sientete libre de compartir o proponer mejoras levantando "issues" o enviando un PR.
