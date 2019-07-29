@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SaturdaysAI/Itinerario_MachineLearning/master)
 
-# Itinerario_MachineLearning
+# Itinerario_MachineLearning (_work in progress_)
 ### Itinerario oficial Machine Learning - Saturdays.ai
 
 Para trabajar con los notebooks puedes:
