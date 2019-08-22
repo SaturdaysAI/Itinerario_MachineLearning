@@ -16,7 +16,7 @@ _Troncal_:
 - Sesion 2 (feature importance, Performance, etc): [Notebook FI & Performance], slides, video.
 - Sesion 3 (random forest): [Notebook RF], slides, video.
 - Sesion 4 (regression): [Notebook Regression], slides, video.
-- Sesion 5 (clusterin): [Notebook Clustering], slides, video.
+- Sesion 5 (clustering): [Notebook Clustering], slides, video.
 - Sesion 6 (NLP): [Notebook NLP], slides, video.
 - Sesion 7 (Gradient Descent): [Notebook GD], slides, video.
 
