@@ -12,13 +12,13 @@ __Para poder graduarse en el programa AI Saturdays, con la mención "_Machine Le
 __Estos ejercicios están pensandos para representar poco más del 50% del contenido de la fase "_code2learn_" en AI Saturdays, por tanto, en tu ciudad seguro hacéis muchas más cosas y más divertidas, pero haz estos ejercicios para asegurar unos fundamentos fuertes sobre los que luego construiras un proyecto espectacular en la fase "_build2learn_".__
 
 _Troncal_:
-- Sesion 1: Notebook, slides, video.
-- Sesion 2: Notebook, slides, video.
-- Sesion 3: Notebook, slides, video.
-- Sesion 4: Notebook, slides, video.
-- Sesion 5: Notebook, slides, video.
-- Sesion 6: Notebook, slides, video.
-- Sesion 7: Notebook, slides, video.
+- Sesion 1 (Cleaning): [Notebook Cleaning], slides, video.
+- Sesion 2 (feature importance, Performance, etc): [Notebook FI & Performance], slides, video.
+- Sesion 3 (random forest): [Notebook RF], slides, video.
+- Sesion 4 (regression): [Notebook Regression], slides, video.
+- Sesion 5 (clusterin): [Notebook Clustering], slides, video.
+- Sesion 6 (NLP): [Notebook NLP], slides, video.
+- Sesion 7 (Gradient Descent): [Notebook GD], slides, video.
 
 _Extras_:
 - Sesion Adicional 1: Notebook, slides, video.
