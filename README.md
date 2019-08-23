@@ -13,8 +13,8 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 
 _Troncal_:
 - Sesion 1 (Cleaning): [Notebook Cleaning], slides, video.
-- Sesion 2 (feature importance, Performance, etc): [Notebook FI & Performance], slides, video.
-- Sesion 3 (random forest): [Notebook RF], slides, [video 1 RF], [video 2 RF].
+- Sesion 2 (feature importance, Performance, etc): [Notebook 1](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_grocery.ipynb), [Notebook 2](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb), [video 1](https://www.youtube.com/watch?v=YSFG_W8JxBo), [video 2](https://www.youtube.com/watch?v=0v93qHDqq_g).
+- Sesion 3 (random forest): [Notebook RF] , slides, [video 1 RF], [video 2 RF].
 - Sesion 4 (regression): [Notebook Regression], slides, video.
 - Sesion 5 (clustering): [Notebook Clustering], slides, video.
 - Sesion 6 (NLP): [Notebook NLP], slides, video.
@@ -32,3 +32,5 @@ Este itinerario está inspirado en los cursos de "Intro to Machine Learning for 
 Igualmente, sientete libre de compartir o proponer mejoras levantando "issues" o enviando un PR.
 
 [Notebook RF]: <https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson1_randomforest.ipynb>
+[video 1 RF]: <https://www.youtube.com/watch?v=CzdWqFTmn0Y>
+[video 2 RF]: <https://www.youtube.com/watch?v=blyXCk4sgEg>
