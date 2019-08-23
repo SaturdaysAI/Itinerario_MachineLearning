@@ -14,7 +14,7 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 _Troncal_:
 - Sesion 1 (Cleaning): [Notebook Cleaning], slides, video.
 - Sesion 2 (feature importance, Performance, etc): [Notebook 1](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_grocery.ipynb), [Notebook 2](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb), [video 1](https://www.youtube.com/watch?v=YSFG_W8JxBo), [video 2](https://www.youtube.com/watch?v=0v93qHDqq_g). [Exercise](https://github.com/margobra8/svm-wheat-seed-classifier/blob/master/SVM%20Wheat%20Classification%20Exercise.ipynb), [Solution](https://github.com/margobra8/svm-wheat-seed-classifier/blob/master/SVM%20Wheat%20Classification%20Solution.ipynb), [data](https://github.com/margobra8/svm-wheat-seed-classifier/tree/master/data).
-- Sesion 3 (random forest): [Notebook RF] , slides, [video 1 RF], [video 2 RF].
+- Sesion 3 (random forest): [Notebook RF] , slides, [video 1 RF], [video 2 RF].[Exercise](https://github.com/margobra8/rf-wine-quality-predictor/blob/master/wine-prediction.ipynb),[data](https://github.com/margobra8/rf-wine-quality-predictor/tree/master/data).
 - Sesion 4 (regression): [Notebook Regression], slides, video.
 - Sesion 5 (clustering): [Notebook Clustering], slides, video.
 - Sesion 6 (NLP): [Notebook NLP], slides, video.
