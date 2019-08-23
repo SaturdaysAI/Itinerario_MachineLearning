@@ -14,7 +14,7 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 _Troncal_:
 - Sesion 1 (Cleaning): [Notebook Cleaning], slides, video.
 - Sesion 2 (feature importance, Performance, etc): [Notebook FI & Performance], slides, video.
-- Sesion 3 (random forest): [Notebook RF], slides, video.
+- Sesion 3 (random forest): [Notebook RF], slides, [video 1 RF], [video 2 RF].
 - Sesion 4 (regression): [Notebook Regression], slides, video.
 - Sesion 5 (clustering): [Notebook Clustering], slides, video.
 - Sesion 6 (NLP): [Notebook NLP], slides, video.
@@ -30,3 +30,5 @@ Resto de sesiones hasta el ___Demo Day___ están dedicadas a la fase "_build2lea
 Este itinerario está inspirado en los cursos de "Intro to Machine Learning for Coders" de Fast.ai y "Machine Learning for good" de Delta Analytics.
 
 Igualmente, sientete libre de compartir o proponer mejoras levantando "issues" o enviando un PR.
+
+[Notebook RF]: <https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson1_randomforest.ipynb>
