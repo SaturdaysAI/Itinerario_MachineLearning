@@ -13,15 +13,15 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 
 _Troncal_:
 - Sesion 1 (Cleaning): [Notebooks](https://github.com/SaturdaysAI/Itinerario_MachineLearning/tree/master/module_1_introduction), [slides](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view), video.
-- Sesion 2 (feature importance, Performance, etc): [Notebook 1](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_grocery.ipynb), [Notebook 2](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb), [video 1](https://www.youtube.com/watch?v=YSFG_W8JxBo), [video 2](https://www.youtube.com/watch?v=0v93qHDqq_g). [Exercise](https://github.com/margobra8/svm-wheat-seed-classifier/blob/master/SVM%20Wheat%20Classification%20Exercise.ipynb), [Solution](https://github.com/margobra8/svm-wheat-seed-classifier/blob/master/SVM%20Wheat%20Classification%20Solution.ipynb), [data](https://github.com/margobra8/svm-wheat-seed-classifier/tree/master/data).
-- Sesion 3 (random forest): [Notebook RF] , slides, [video 1 RF], [video 2 RF].[Exercise](https://github.com/margobra8/rf-wine-quality-predictor/blob/master/wine-prediction.ipynb),[data](https://github.com/margobra8/rf-wine-quality-predictor/tree/master/data).
+- Sesion 2 (feature importance, Performance, etc): [Notebook 1](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_grocery.ipynb), [Notebook 2](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb), [video 1](https://www.youtube.com/watch?v=YSFG_W8JxBo), [video 2](https://www.youtube.com/watch?v=0v93qHDqq_g). [Exercise Wheat Seed Classifier](https://github.com/margobra8/svm-wheat-seed-classifier/blob/master/SVM%20Wheat%20Classification%20Exercise.ipynb), [Solution](https://github.com/margobra8/svm-wheat-seed-classifier/blob/master/SVM%20Wheat%20Classification%20Solution.ipynb), [Data](https://github.com/margobra8/svm-wheat-seed-classifier/tree/master/data).
+- Sesion 3 (random forest): [Notebook RF] , slides, [video 1 RF], [video 2 RF].[Exercise Wine Quality](https://github.com/margobra8/rf-wine-quality-predictor/blob/master/wine-prediction.ipynb),[data](https://github.com/margobra8/rf-wine-quality-predictor/tree/master/data).
 - Sesion 4 (regression): [Notebook Regression], slides, video. [Exercise](https://colab.research.google.com/drive/1DykdlA5VjHSR-Y0-5yrWVSo59-cBJnmn) [Data](https://drive.google.com/drive/folders/15oFHF9srbffIdGOtznYgGZ7GriL1aFqi?usp=sharing)
-- Sesion 5 (clustering): [Notebook Clustering], slides, video.
+- Sesion 5 (clustering): [Notebook Clustering], [slides](https://drive.google.com/file/d/1YdA-HHYP1V05QgvwLCvfnuuau67Zl38n/view), video. [Exercise IMBD]
 - Sesion 6 (NLP): [Notebook NLP](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson10_nlp.ipynb ), [slides 1](https://drive.google.com/file/d/1Y7gOfnPfyCSu1chWEoHMqhgXVI5KZpRx/view), [slides 2](https://drive.google.com/file/d/1BUJ0FyMzSxCfHNA0AHwBOxjHt7V2FJj8/view), [video](https://www.youtube.com/watch?v=fl25WbtMU2s&t=1s).[Exercise Text classifyer]() [Data](https://github.com/nanirg/2016-campaign)
-- Sesion 7 (Gradient Descent): [Notebook GD], slides, video.
+- Sesion 7 (Gradient Descent): [Notebook GD], [slides](), video.
 
 _Extras_:
-- Sesion Adicional 1: Notebook, slides, video.
+- Sesion Adicional 1: Notebook Algoritmos Genéticos, slides, video.
 - Sesion Adicional 2: Notebook, slides, video.
 - Sesion Adicional 3: Notebook, slides, video.
 
