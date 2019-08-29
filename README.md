@@ -54,16 +54,18 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 - [Exercise Text classifyer]() [Data](https://github.com/nanirg/2016-campaign)  
 
 
-**Sesion 7 (Gradient Descent):**  
-- [Notebook GD]  
-- [slides]()  
+### Extras:
+**Sesion Adicional 1 (Algoritmos genéticos):**  
+- Notebook Algoritmos Genéticos 
+- slides 
 - video  
 
 
-### Extras:
-**Sesion Adicional 1:** Notebook Algoritmos Genéticos, slides, video.  
-**Sesion Adicional 2:** Notebook, slides, video.  
-**Sesion Adicional 3:** Notebook, slides, video.  
+**Sesion Adicional 2 (Gradient Descent):**  
+- [Notebook GD]  
+- [slides]()  
+- video    
+
 
 Resto de sesiones hasta el ___Demo Day___ están dedicadas a la fase "_build2learn_", donde construiras un proyecto abierto con impacto social utilizando _deep learning_, puedes ver proyectos de otras ediciones [aqui](http://github.com/saturdaysai/projects)
 
