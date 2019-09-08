@@ -26,8 +26,11 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 **#2 - FI, Linear Regression, Decision Trees:**  
 - [Notebook 1](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_grocery.ipynb), [Notebook 2](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb)  
 - [video 1](https://www.youtube.com/watch?v=YSFG_W8JxBo), [video 2](https://www.youtube.com/watch?v=0v93qHDqq_g)
+- [Decision Trees video theory](https://www.youtube.com/watch?v=H4XlBTPv5rQ&feature=youtu.be)
+- [Decision Trees video practical](https://www.youtube.com/watch?v=RrVYO6Td9Js&feature=youtu.be)
 -------
 - [Exercise Wheat Seed Classifier](https://github.com/margobra8/svm-wheat-seed-classifier/blob/master/SVM%20Wheat%20Classification%20Exercise.ipynb), [Solution](https://github.com/margobra8/svm-wheat-seed-classifier/blob/master/SVM%20Wheat%20Classification%20Solution.ipynb), [Data](https://github.com/margobra8/svm-wheat-seed-classifier/tree/master/data).  
+- [Exercise Decision Trees](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees.ipynb), [Solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees_solution.ipynb)
 
 
 **Sesion 3 (random forest):**  
