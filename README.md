@@ -49,28 +49,38 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 - [Exercise UL](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment07_unsupervised_learning.ipynb), [solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment07_unsupervised_learning_solution.ipynb)
 
 
-**Sesion 5 (clustering):**  
-- [Notebook Clustering]  
-- [slides](https://drive.google.com/file/d/1YdA-HHYP1V05QgvwLCvfnuuau67Zl38n/view)  
-- video  
-- [Exercise IMBD]  
-
-
-**Sesion 6 (NLP):**  
-- [Notebook NLP](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson10_nlp.ipynb )  
+**#5 - NLP:**  
+- [Notebook NLP](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson10_nlp.ipynb)   
 - [slides 1](https://drive.google.com/file/d/1Y7gOfnPfyCSu1chWEoHMqhgXVI5KZpRx/view), [slides 2](https://drive.google.com/file/d/1BUJ0FyMzSxCfHNA0AHwBOxjHt7V2FJj8/view)  
-- [video](https://www.youtube.com/watch?v=fl25WbtMU2s&t=1s)  
-- [Exercise Text classifyer]() [Data](https://github.com/nanirg/2016-campaign)  
+- [video](https://www.youtube.com/watch?v=fl25WbtMU2s&t=1s) 
+-------
+- [Exercise Text classifyer]() [Data](https://github.com/nanirg/2016-campaign)
+- [Exercise IMBD] ¿? 
+- [Sarcasm Detection](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment04_sarcasm_detection_with_logit.ipynb), [Solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment04_sarcasm_detection_with_logit_solution.ipynb)
+
+
+**#6 - Neural Networks, Gradient Descent:**  
+- [Notebook ]()  
+- [slides 1]()
+- [video]()  
+- [Exercise Text classifyer]() [Data]()   
+
+
+**ML project pipeline and basic libraries(DL Session):**    
+- [Notebooks](https://github.com/pablotalavante/ai6-madrid-demos/tree/master/session_1)  
+- [slides](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  
+- Hands-On ML and TensorFlow
+- [Keras Intro]Falta
 
 
 ### Extras:
-**Sesion Adicional 1 (Algoritmos genéticos):**  
+**Adicional 1 (Algoritmos genéticos):**  
 - Notebook Algoritmos Genéticos 
 - slides 
 - video  
 
 
-**Sesion Adicional 2 (Gradient Descent):**  
+**Adicional 2 (Logistic Regression):**  
 - [Notebook GD]  
 - [slides]()  
 - video    
