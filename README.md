@@ -55,6 +55,7 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 - [video NLP](https://www.youtube.com/watch?v=fl25WbtMU2s&t=1s) 
 - [Logistic Regression theory](https://www.youtube.com/watch?v=l3jiw-N544s)  
 - [Logistic Regression practice](https://www.youtube.com/watch?v=7o0SWgY89i8)
+- [Logistic Regression slides](https://docs.google.com/presentation/d/1wxHKYyv1Px7yL4M7NmudDG4Fgm8g3WMDgBcOfT1kVug/edit?usp=sharing)
 -------
 - [Exercise Text classifyer]() [Data](https://github.com/nanirg/2016-campaign)
 - [Exercise IMBD] ¿? 
@@ -62,8 +63,8 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 
 
 **#6 - Neural Networks, Gradient Descent:**  
-- [Notebook NN]() Falta 
-- [slides NN]() Falta
+- Notebook NN Falta 
+- slides NN Falta
 - [GD part 1 video](https://www.youtube.com/watch?v=g0ZOtzZqdqk&feature=youtu.be)  
 - [GD part 2 video](https://www.youtube.com/watch?v=V5158Oug4W8&feature=youtu.be)
 ------
@@ -75,7 +76,7 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 - [Notebooks](https://github.com/pablotalavante/ai6-madrid-demos/tree/master/session_1)  
 - [slides](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  
 - Hands-On ML and TensorFlow
-- [Keras Intro]Falta
+- Keras IntroFalta
 
 
 ### Extras:
@@ -86,8 +87,8 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 
 
 **Adicional 2 (Time Series Analysis):**  
-- [Notebook ]  
-- [slides]()  
+- Notebook  
+- slides 
 - [video](https://www.youtube.com/watch?v=_9lBwXnbOd8&feature=youtu.be)   
 
 
