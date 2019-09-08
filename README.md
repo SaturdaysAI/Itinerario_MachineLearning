@@ -16,16 +16,16 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 
 **#1 - Cleaning & Exploratory Data Pandas:**    
 - [Notebooks](https://github.com/SaturdaysAI/Itinerario_MachineLearning/tree/master/module_1_introduction)  
-- [slides](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  
-- [video](https://www.youtube.com/watch?v=fwWCw_cE5aI&feature=youtu.be)  
+- [slides intro ML](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  
+- [video Pandas](https://www.youtube.com/watch?v=fwWCw_cE5aI&feature=youtu.be)  
 ------
 - [exercise](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb)
 - [solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult_solution.ipynb)
 
 
-**#2 - FI, Linear Regression, Decision Trees:**  
-- [Notebook 1](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_grocery.ipynb), [Notebook 2](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb)  
-- [video 1](https://www.youtube.com/watch?v=YSFG_W8JxBo), [video 2](https://www.youtube.com/watch?v=0v93qHDqq_g)
+**#2 - Linear Regression, Decision Trees:**  
+- [Notebook RF]   
+- [video 1 RF], [video 2 RF]  
 - [Decision Trees video theory](https://www.youtube.com/watch?v=H4XlBTPv5rQ&feature=youtu.be)
 - [Decision Trees video practical](https://www.youtube.com/watch?v=RrVYO6Td9Js&feature=youtu.be)
 -------
@@ -33,9 +33,9 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 - [Exercise Decision Trees](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees.ipynb), [Solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees_solution.ipynb)
 
 
-**#3 Random Forest Deep Dive:**  
-- [Notebook RF]   
-- [video 1 RF], [video 2 RF]  
+**#3 FI, Random Forest Deep Dive:**  
+- [Notebook RF 1](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_grocery.ipynb), [Notebook RF 2](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb)  
+- [video 1](https://www.youtube.com/watch?v=YSFG_W8JxBo), [video 2](https://www.youtube.com/watch?v=0v93qHDqq_g)
 -------
 - [Exercise Wine Quality](https://github.com/margobra8/rf-wine-quality-predictor/blob/master/wine-prediction.ipynb),[data](https://github.com/margobra8/rf-wine-quality-predictor/tree/master/data).  
 - [Pokemon Battle Winner](https://colab.research.google.com/drive/1DykdlA5VjHSR-Y0-5yrWVSo59-cBJnmn) [Data](https://drive.google.com/drive/folders/15oFHF9srbffIdGOtznYgGZ7GriL1aFqi?usp=sharing)  
