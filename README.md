@@ -33,18 +33,20 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 - [Exercise Decision Trees](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees.ipynb), [Solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees_solution.ipynb)
 
 
-**Sesion 3 (random forest):**  
-- [Notebook RF]  
-- slides  
+**#3 Random Forest Deep Dive:**  
+- [Notebook RF]   
 - [video 1 RF], [video 2 RF]  
+-------
 - [Exercise Wine Quality](https://github.com/margobra8/rf-wine-quality-predictor/blob/master/wine-prediction.ipynb),[data](https://github.com/margobra8/rf-wine-quality-predictor/tree/master/data).  
+- [Pokemon Battle Winner](https://colab.research.google.com/drive/1DykdlA5VjHSR-Y0-5yrWVSo59-cBJnmn) [Data](https://drive.google.com/drive/folders/15oFHF9srbffIdGOtznYgGZ7GriL1aFqi?usp=sharing)  
 
 
-**Sesion 4 (regression):**  
-- [Notebook Regression]  
-- slides  
-- video  
-- [Exercise](https://colab.research.google.com/drive/1DykdlA5VjHSR-Y0-5yrWVSo59-cBJnmn) [Data](https://drive.google.com/drive/folders/15oFHF9srbffIdGOtznYgGZ7GriL1aFqi?usp=sharing)  
+**#4 - Unsupervised learning:**  
+- [Notebook] Falta
+- [slides](https://drive.google.com/file/d/1YdA-HHYP1V05QgvwLCvfnuuau67Zl38n/view) 
+- [video PCA](https://www.youtube.com/watch?v=-AswHf7h0I4&feature=youtu.be), [video Clustering](https://www.youtube.com/watch?v=eVplCo-w4XE&feature=youtu.be)  
+------
+- [Exercise UL](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment07_unsupervised_learning.ipynb), [solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment07_unsupervised_learning_solution.ipynb)
 
 
 **Sesion 5 (clustering):**  
