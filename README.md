@@ -14,10 +14,13 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 ### Troncal:
 
 
-**Sesion 1 (Cleaning):**    
+**#1 - Cleaning & Exploratory Data Pandas:**    
 - [Notebooks](https://github.com/SaturdaysAI/Itinerario_MachineLearning/tree/master/module_1_introduction)  
 - [slides](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  
-- video.  
+- [video](https://www.youtube.com/watch?v=fwWCw_cE5aI&feature=youtu.be)  
+------
+- [exercise](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb)
+- [solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult_solution.ipynb)
 
 
 **Sesion 2 (feature importance, Performance, etc):**  
