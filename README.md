@@ -49,10 +49,12 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 - [Exercise UL](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment07_unsupervised_learning.ipynb), [solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment07_unsupervised_learning_solution.ipynb)
 
 
-**#5 - NLP:**  
+**#5 - NLP, Logistic Regression:**  
 - [Notebook NLP](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson10_nlp.ipynb)   
-- [slides 1](https://drive.google.com/file/d/1Y7gOfnPfyCSu1chWEoHMqhgXVI5KZpRx/view), [slides 2](https://drive.google.com/file/d/1BUJ0FyMzSxCfHNA0AHwBOxjHt7V2FJj8/view)  
-- [video](https://www.youtube.com/watch?v=fl25WbtMU2s&t=1s) 
+- [slides NLP 1](https://drive.google.com/file/d/1Y7gOfnPfyCSu1chWEoHMqhgXVI5KZpRx/view), [slides NLP 2](https://drive.google.com/file/d/1BUJ0FyMzSxCfHNA0AHwBOxjHt7V2FJj8/view)  
+- [video NLP](https://www.youtube.com/watch?v=fl25WbtMU2s&t=1s) 
+- [Logistic Regression theory](https://www.youtube.com/watch?v=l3jiw-N544s)  
+- [Logistic Regression practice](https://www.youtube.com/watch?v=7o0SWgY89i8)
 -------
 - [Exercise Text classifyer]() [Data](https://github.com/nanirg/2016-campaign)
 - [Exercise IMBD] ¿? 
@@ -60,10 +62,13 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 
 
 **#6 - Neural Networks, Gradient Descent:**  
-- [Notebook ]()  
-- [slides 1]()
-- [video]()  
-- [Exercise Text classifyer]() [Data]()   
+- [Notebook NN]() Falta 
+- [slides NN]() Falta
+- [GD part 1 video](https://www.youtube.com/watch?v=g0ZOtzZqdqk&feature=youtu.be)  
+- [GD part 2 video](https://www.youtube.com/watch?v=V5158Oug4W8&feature=youtu.be)
+------
+- [GD Challenge](https://www.kaggle.com/kashnitsky/assignment-10-gradient-boosting-and-flight-delays)
+
 
 
 **ML project pipeline and basic libraries(DL Session):**    
@@ -80,10 +85,10 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 - video  
 
 
-**Adicional 2 (Logistic Regression):**  
-- [Notebook GD]  
+**Adicional 2 (Time Series Analysis):**  
+- [Notebook ]  
 - [slides]()  
-- video    
+- [video](https://www.youtube.com/watch?v=_9lBwXnbOd8&feature=youtu.be)   
 
 
 Resto de sesiones hasta el ___Demo Day___ están dedicadas a la fase "_build2learn_", donde construiras un proyecto abierto con impacto social utilizando _deep learning_, puedes ver proyectos de otras ediciones [aqui](http://github.com/saturdaysai/projects)
