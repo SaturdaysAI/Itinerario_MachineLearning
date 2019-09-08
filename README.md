@@ -23,9 +23,10 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 - [solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult_solution.ipynb)
 
 
-**Sesion 2 (feature importance, Performance, etc):**  
+**#2 - FI, Linear Regression, Decision Trees:**  
 - [Notebook 1](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_grocery.ipynb), [Notebook 2](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb)  
-- [video 1](https://www.youtube.com/watch?v=YSFG_W8JxBo), [video 2](https://www.youtube.com/watch?v=0v93qHDqq_g)  
+- [video 1](https://www.youtube.com/watch?v=YSFG_W8JxBo), [video 2](https://www.youtube.com/watch?v=0v93qHDqq_g)
+-------
 - [Exercise Wheat Seed Classifier](https://github.com/margobra8/svm-wheat-seed-classifier/blob/master/SVM%20Wheat%20Classification%20Exercise.ipynb), [Solution](https://github.com/margobra8/svm-wheat-seed-classifier/blob/master/SVM%20Wheat%20Classification%20Solution.ipynb), [Data](https://github.com/margobra8/svm-wheat-seed-classifier/tree/master/data).  
 
 
