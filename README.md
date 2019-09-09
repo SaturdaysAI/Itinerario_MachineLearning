@@ -16,8 +16,9 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 
 **#1 - Cleaning & Exploratory Data Pandas:**    
 - [Notebooks](https://github.com/SaturdaysAI/Itinerario_MachineLearning/tree/master/module_1_introduction)  
-- [slides intro ML](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  
+- [slides intro ML](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  (Para Ambassadors)
 - [video Pandas](https://www.youtube.com/watch?v=fwWCw_cE5aI&feature=youtu.be)  
+- [Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/#numpy)
 ------
 - [exercise](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb)
 - [solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult_solution.ipynb)
