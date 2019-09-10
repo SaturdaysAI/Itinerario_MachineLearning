@@ -31,6 +31,8 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 -------
 - [Linear Regression](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-4-linear-classification-and-regression-44a41b9b5220) (Pendiente de aprobar)
 - [Notebooks Regression](https://drive.google.com/open?id=1G2c58kWEkMEcHoaJ_Q4eY4LiSHzRj5gM) (Pendiente de aprobar)
+- [Notebooks LR](https://drive.google.com/open?id=1xVFo-30UO4S-3vGZia7aAnz_rr5o7OGJ)
+- [Notebook Hands-On](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb)
 -------
 - [Decision Trees video theory](https://www.youtube.com/watch?v=H4XlBTPv5rQ&feature=youtu.be)
 - [Decision Trees video practical](https://www.youtube.com/watch?v=RrVYO6Td9Js&feature=youtu.be)
