@@ -34,6 +34,9 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 - [Notebooks LR](https://drive.google.com/open?id=1xVFo-30UO4S-3vGZia7aAnz_rr5o7OGJ)
 - [Notebook Hands-On](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb)
 -------
+- [Exercise LR](https://www.kaggle.com/mavwong/practice-on-linear-regression) Revisar
+- [Exercise Houses](https://www.kaggle.com/mayanksrivastava/predict-housing-prices-simple-linear-regression) Revisar
+-------
 - [Decision Trees video theory](https://www.youtube.com/watch?v=H4XlBTPv5rQ&feature=youtu.be)
 - [Decision Trees video practical](https://www.youtube.com/watch?v=RrVYO6Td9Js&feature=youtu.be)
 - [Notebook Decision Tree](https://drive.google.com/drive/folders/1gatWI1fBgSrQ4SKGTLxPKTiz6UlBP2yO?usp=sharing)
