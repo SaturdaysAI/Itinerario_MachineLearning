@@ -32,19 +32,27 @@ Algunos conceptos de Machine Learning que vamos a ver:
 - Aprendizaje supervisado vs. No supervisado   
 - Bias vs. Variance
 - Overfitting vs. Underfitting
-- Train/Test
+- Train/Test  
 
-(Paso 1) Como desarrollar un modelo:
+
+(Paso 1) Como desarrollar un modelo:  
+
 - [Guía PDF + Notebook](https://drive.google.com/open?id=1QmwaLSvzmEl_FA-kPWApsdom4E3q9oBw)
-(Paso 2) Entender como funciona una Regresión lineal:
-- [PDF Guía + Notebook](https://drive.google.com/drive/folders/18IzDAzEUloGWDOSy9susf2-QB8RVCaoS?usp=sharing)
-- [Si quieres profundizar más...](https://drive.google.com/drive/folders/1xVFo-30UO4S-3vGZia7aAnz_rr5o7OGJ?usp=sharing) (Opcional)
-(Paso 3) Aprender a usar Árboles de decisión:
-Opción 1: 
+(Paso 2) Entender como funciona una Regresión lineal:  
+
+- [PDF Guía + Notebook](https://drive.google.com/drive/folders/18IzDAzEUloGWDOSy9susf2-QB8RVCaoS?usp=sharing)  
+- [Si quieres profundizar más...](https://drive.google.com/drive/folders/1xVFo-30UO4S-3vGZia7aAnz_rr5o7OGJ?usp=sharing)(Opcional)  
+
+(Paso 3) Aprender a usar Árboles de decisión:  
+
+Opción 1:  
+
 - [Video Teórico](https://www.youtube.com/watch?v=H4XlBTPv5rQ&feature=youtu.be)
 - [Vídeo Práctica](https://www.youtube.com/watch?v=RrVYO6Td9Js&feature=youtu.be)
-- [Notebook de los vídeos](https://drive.google.com/drive/folders/1o2yBFzu_boiSuRHak2cTsjBe-uceWbk6?usp=sharing)
-Opción 2:
+- [Notebook de los vídeos](https://drive.google.com/drive/folders/1o2yBFzu_boiSuRHak2cTsjBe-uceWbk6?usp=sharing)  
+
+Opción 2:  
+
 - [PDF Guía + Notebook](https://drive.google.com/drive/folders/1-4FfCeoOQgxmkZWSJwqWESdFwHN-efHn?usp=sharing)  
 
 -------
