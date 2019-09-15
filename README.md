@@ -25,23 +25,31 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 
 
 **#2 - Regression, Decision Trees:**  
-- [Video Visualization](https://www.youtube.com/watch?v=WNoQTNOME5g) (Opcional)
-- [Notebook Visualization](https://drive.google.com/drive/folders/1gatWI1fBgSrQ4SKGTLxPKTiz6UlBP2yO?usp=sharing) (Opcional)
-- [Exercise Visualization & Sol](https://drive.google.com/drive/folders/1B43cgd9hG6p_tuzMIKqz_A9xDo2GPpn7?usp=sharing) (Opcional)
--------
-- [Linear Regression](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-4-linear-classification-and-regression-44a41b9b5220) (Pendiente de aprobar)
-- [Notebooks Regression](https://drive.google.com/open?id=1G2c58kWEkMEcHoaJ_Q4eY4LiSHzRj5gM) (Pendiente de aprobar)
-- [Notebooks LR](https://drive.google.com/open?id=1xVFo-30UO4S-3vGZia7aAnz_rr5o7OGJ)
-- [Notebook Hands-On](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb)
+
+Algunos conceptos de Machine Learning que vamos a ver:
+- ¿Cual es el problema a resolver?
+- Rendimiento del modelo
+- Aprendizaje supervisado vs. No supervisado   
+- Bias vs. Variance
+- Overfitting vs. Underfitting
+- Train/Test
+
+(Paso 1) Como desarrollar un modelo:
+- [Guía PDF + Notebook](https://drive.google.com/open?id=1QmwaLSvzmEl_FA-kPWApsdom4E3q9oBw)
+(Paso 2) Entender como funciona una Regresión lineal:
+- [PDF Guía + Notebook](https://drive.google.com/drive/folders/18IzDAzEUloGWDOSy9susf2-QB8RVCaoS?usp=sharing)
+- [Si quieres profundizar más...](https://drive.google.com/drive/folders/1xVFo-30UO4S-3vGZia7aAnz_rr5o7OGJ?usp=sharing) (Opcional)
+(Paso 3) Aprender a usar Árboles de decisión:
+Opción 1: 
+- [Video Teórico](https://www.youtube.com/watch?v=H4XlBTPv5rQ&feature=youtu.be)
+- [Vídeo Práctica](https://www.youtube.com/watch?v=RrVYO6Td9Js&feature=youtu.be)
+- [Notebook de los vídeos](https://drive.google.com/drive/folders/1o2yBFzu_boiSuRHak2cTsjBe-uceWbk6?usp=sharing)
+Opción 2:
+- [PDF Guía + Notebook](https://drive.google.com/drive/folders/1-4FfCeoOQgxmkZWSJwqWESdFwHN-efHn?usp=sharing)  
+
 -------
 - [Exercise LR](https://www.kaggle.com/mavwong/practice-on-linear-regression) Revisar
 - [Exercise Houses](https://www.kaggle.com/mayanksrivastava/predict-housing-prices-simple-linear-regression) Revisar
--------
-- [Decision Trees video theory](https://www.youtube.com/watch?v=H4XlBTPv5rQ&feature=youtu.be)
-- [Decision Trees video practical](https://www.youtube.com/watch?v=RrVYO6Td9Js&feature=youtu.be)
-- [Notebook Decision Tree](https://drive.google.com/drive/folders/1gatWI1fBgSrQ4SKGTLxPKTiz6UlBP2yO?usp=sharing)
-- [2º Notebook Decision Tree](https://github.com/ageron/handson-ml2/blob/master/06_decision_trees.ipynb) (from ageron)
--------
 - [Exercise Decision Trees & Solution](https://drive.google.com/drive/folders/1B43cgd9hG6p_tuzMIKqz_A9xDo2GPpn7?usp=sharing)
 
 **#3 - FI, Random Forest Deep Dive:**  
@@ -110,8 +118,10 @@ Para profundizar mas en RF:
 - [video](https://www.youtube.com/watch?v=_9lBwXnbOd8&feature=youtu.be)   
 
 
-**Adicional 3 (Visualizing Data):**  
-- Notebook  
+**Adicional 3 (Visualizing Data):**   
+- [Video Visualization](https://www.youtube.com/watch?v=WNoQTNOME5g) (Opcional)
+- [Notebook Visualization](https://drive.google.com/drive/folders/1gatWI1fBgSrQ4SKGTLxPKTiz6UlBP2yO?usp=sharing) (Opcional)
+- [Exercise Visualization & Sol](https://drive.google.com/drive/folders/1B43cgd9hG6p_tuzMIKqz_A9xDo2GPpn7?usp=sharing) (Opcional)
 - slides 
 - video 
 
