@@ -37,7 +37,8 @@ Algunos conceptos de Machine Learning que vamos a ver:
 
 (Paso 1) Como desarrollar un modelo:  
 
-- [Guía PDF + Notebook](https://drive.google.com/open?id=1QmwaLSvzmEl_FA-kPWApsdom4E3q9oBw)
+- [Guía PDF + Notebook](https://drive.google.com/open?id=1QmwaLSvzmEl_FA-kPWApsdom4E3q9oBw)  
+
 (Paso 2) Entender como funciona una Regresión lineal:  
 
 - [PDF Guía + Notebook](https://drive.google.com/drive/folders/18IzDAzEUloGWDOSy9susf2-QB8RVCaoS?usp=sharing)  
