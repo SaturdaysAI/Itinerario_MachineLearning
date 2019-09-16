@@ -15,6 +15,8 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 
 
 **#1 - Cleaning & Exploratory Data Pandas:**    
+Objetivo: familiarizarse con Pandas, como limpiar y explorar datos. Estructuras de datos en python.  
+
 - [Notebooks Repaso](https://github.com/SaturdaysAI/Itinerario_MachineLearning/tree/master/module_1_introduction) 
 - [Notebook Pandas](https://drive.google.com/open?id=1RbQNx_rIuxjDU3AYWWwB0w7iLmfv-34A)
 - [Slides intro ML](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  (Para Ambassadors)
@@ -24,6 +26,7 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 
 -------
 **#2 - Regression, Decision Trees:**  
+Objetivo: Empezar a entender conceptos básicos, como montar un modelo de ML, empezar a usar sci-kit learn a través de regresiones lineales y árboles de decisión. 
 
 Algunos conceptos de Machine Learning que vamos a ver:
 - ¿Cual es el problema a resolver?
@@ -59,8 +62,12 @@ Opción 2:
 - [Exercise LR](https://www.kaggle.com/mavwong/practice-on-linear-regression) Revisar
 - [Exercise Houses](https://www.kaggle.com/mayanksrivastava/predict-housing-prices-simple-linear-regression) Revisar
 - [Exercise Decision Trees & Solution](https://drive.google.com/drive/folders/1B43cgd9hG6p_tuzMIKqz_A9xDo2GPpn7?usp=sharing)
+
++ Presentaciones DeltaAnalytics
 -------
 **#3 - FI, Random Forest Deep Dive:**  
+Objetivo: Asentar conceptos de ML, entender gracias a los árboles de decisión como usar Random Forest.
+
 - [Notebook RF]   
 - [video 1 RF], [video 2 RF] 
 - Falta algo para FI
@@ -78,6 +85,8 @@ Para profundizar mas en RF:
 
 -------
 **#4 - Unsupervised learning:**  
+Objetivo: Una vez abordados problemas de aprendizaje supervisado, entender como hacerlo con aprendizaje no-supervisado.
+
 - [Notebook] Falta
 - [slides](https://drive.google.com/file/d/1YdA-HHYP1V05QgvwLCvfnuuau67Zl38n/view) 
 - [video PCA](https://www.youtube.com/watch?v=-AswHf7h0I4&feature=youtu.be), [video Clustering](https://www.youtube.com/watch?v=eVplCo-w4XE&feature=youtu.be)  
@@ -86,6 +95,8 @@ Para profundizar mas en RF:
 
 -------
 **#5 - Neural Networks, Gradient Descent:**  
+Objetivo: entender conceptos básicos de Deep Learning y usarlos para un primer aproach
+
 - Notebook NN Falta 
 - slides NN Falta
 - [GD part 1 video](https://www.youtube.com/watch?v=g0ZOtzZqdqk&feature=youtu.be)  
@@ -95,6 +106,8 @@ Para profundizar mas en RF:
 
 -------
 **#6 - NLP:**  
+Objetivo: entender conceptos básicos de NLP y cómo resolver problemas de NLP
+
 - [Notebook NLP](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson10_nlp.ipynb)   
 - [slides NLP 1](https://drive.google.com/file/d/1Y7gOfnPfyCSu1chWEoHMqhgXVI5KZpRx/view), [slides NLP 2](https://drive.google.com/file/d/1BUJ0FyMzSxCfHNA0AHwBOxjHt7V2FJj8/view)  
 - [video NLP](https://www.youtube.com/watch?v=fl25WbtMU2s&t=1s) 
@@ -108,7 +121,8 @@ Para profundizar mas en RF:
 
 
 -------
-**ML project pipeline and basic libraries(DL Session):**    
+**ML project pipeline and basic libraries(DL Session):** Clase maistral
+
 - [Notebooks](https://github.com/pablotalavante/ai6-madrid-demos/tree/master/session_1)  
 - [slides](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  
 - Hands-On ML and TensorFlow
