@@ -64,6 +64,7 @@ Opción 2:
 - [Exercise Decision Trees & Solution](https://drive.google.com/drive/folders/1B43cgd9hG6p_tuzMIKqz_A9xDo2GPpn7?usp=sharing)
 
 + Presentaciones DeltaAnalytics
+[Guía de la sesión](https://docs.google.com/presentation/d/1r6ZGDl7aZQMklrNynYCFuOqmXREhAyOBMlwVXasMog0/edit?usp=sharing)
 -------
 **#3 - FI, Random Forest Deep Dive:**  
 Objetivo: Asentar conceptos de ML, entender gracias a los árboles de decisión como usar Random Forest.
