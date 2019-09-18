@@ -26,16 +26,7 @@ Objetivo: familiarizarse con Pandas, como limpiar y explorar datos. Estructuras 
 
 -------
 **#2 - Regression, Decision Trees:**  
-Objetivo: Empezar a entender conceptos básicos, como montar un modelo de ML, empezar a usar sci-kit learn a través de regresiones lineales y árboles de decisión. 
-
-Algunos conceptos de Machine Learning que vamos a ver:
-- ¿Cual es el problema a resolver?
-- Rendimiento del modelo
-- Aprendizaje supervisado vs. No supervisado   
-- Bias vs. Variance
-- Overfitting vs. Underfitting
-- Train/Test  
-
+Objetivo: Empezar a entender conceptos básicos, como montar un modelo de ML, empezar a usar sci-kit learn a través de regresiones lineales y árboles de decisión.  
 
 (Paso 1) Como desarrollar un modelo:  
 
@@ -58,12 +49,15 @@ Opción 2:
 
 - [PDF Guía + Notebook](https://drive.google.com/drive/folders/1-4FfCeoOQgxmkZWSJwqWESdFwHN-efHn?usp=sharing)  
 
-
+En Clase Linear Regression
+- [Tutorial](https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f)  
 - [Exercise LR](https://www.kaggle.com/mavwong/practice-on-linear-regression) Revisar
-- [Exercise Houses](https://www.kaggle.com/mayanksrivastava/predict-housing-prices-simple-linear-regression) Revisar
+- [Exercise Houses](https://www.kaggle.com/mayanksrivastava/predict-housing-prices-simple-linear-regression) Revisar 
+
+En Clase Decision Trees
 - [Exercise Decision Trees & Solution](https://drive.google.com/drive/folders/1B43cgd9hG6p_tuzMIKqz_A9xDo2GPpn7?usp=sharing)
 
-+ Presentaciones DeltaAnalytics
+Presentaciones DeltaAnalytics: [Deep Dive](https://drive.google.com/file/d/1EZ_xqMaYj77vErVnrQmnFOj-VBEoO5uW/view?usp=sharing), [Linear Regression](https://drive.google.com/file/d/1kXbB7fps78xyFYUtmgNlQJJ3LdO0K3TB/view?usp=sharing), [Model](https://drive.google.com/file/d/1ESR4U566uPioFCpFOITpuSBaO45MdJ4O/view?usp=sharing), [Decision Trees](https://drive.google.com/file/d/1Sd_LN-WE_W3Zo-YZrMBe90H2i4_ieFRs/view)
 [Guía de la sesión](https://docs.google.com/presentation/d/1r6ZGDl7aZQMklrNynYCFuOqmXREhAyOBMlwVXasMog0/edit?usp=sharing)
 -------
 **#3 - FI, Random Forest Deep Dive:**  
