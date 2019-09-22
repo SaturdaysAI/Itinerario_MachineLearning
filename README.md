@@ -71,9 +71,9 @@ En Clase:
 **#3 - FI, Random Forest Deep Dive:**  
 Objetivo: Asentar conceptos de ML, entender gracias a los árboles de decisión como usar Random Forest.
 
-- [Notebook RF]   
-- [video 1 RF], [video 2 RF] 
-- Falta algo para FI
+- [Notebook RF](https://drive.google.com/open?id=1tPSGR8GEAtzVhRYF9pJxkNNnqU8VSmLC) Para seguir con los vídeos  
+- [video 1 RF](https://www.youtube.com/watch?v=CzdWqFTmn0Y), [video 2 RF](https://www.youtube.com/watch?v=blyXCk4sgEg) 
+- [Tutorial Feature Importance](https://www.datacamp.com/community/tutorials/random-forests-classifier-python)
 
 
 Para profundizar mas en RF:
@@ -159,6 +159,4 @@ Este itinerario está inspirado en los cursos de "Intro to Machine Learning for 
 
 Igualmente, sientete libre de compartir o proponer mejoras levantando "issues" o enviando un PR.
 
-[Notebook RF]: <https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson1_randomforest.ipynb>
-[video 1 RF]: <https://www.youtube.com/watch?v=CzdWqFTmn0Y>
-[video 2 RF]: <https://www.youtube.com/watch?v=blyXCk4sgEg>
+
