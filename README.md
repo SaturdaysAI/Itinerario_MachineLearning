@@ -49,21 +49,24 @@ Opción 2:
 
 - [PDF Guía + Notebook](https://drive.google.com/drive/folders/1-4FfCeoOQgxmkZWSJwqWESdFwHN-efHn?usp=sharing)  
 
-En Clase Linear Regression
+En Clase: 
+- Linear Regression
 - [Tutorial](https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f)  
-- [Exercise LR](https://www.kaggle.com/mavwong/practice-on-linear-regression) Revisar
+- [Exercise LR](https://www.kaggle.com/mohansacharya/graduate-admissions), [Notebook Challenge](https://drive.google.com/open?id=1O18VMM9MHlJfXhjyEjXSNvTAe2u4t_5S), [Solución]()
 - [Exercise Houses](https://www.kaggle.com/mayanksrivastava/predict-housing-prices-simple-linear-regression) Revisar 
 
-En Clase Decision Trees
+- Decision Trees
 - [Exercise Decision Trees & Solution](https://drive.google.com/drive/folders/1B43cgd9hG6p_tuzMIKqz_A9xDo2GPpn7?usp=sharing)
 
-Presentaciones DeltaAnalytics: 
+- Presentaciones DeltaAnalytics: 
 - [Deep Dive](https://drive.google.com/file/d/1EZ_xqMaYj77vErVnrQmnFOj-VBEoO5uW/view?usp=sharing)
 - [Linear Regression](https://drive.google.com/file/d/1kXbB7fps78xyFYUtmgNlQJJ3LdO0K3TB/view?usp=sharing)  
 - [Model](https://drive.google.com/file/d/1ESR4U566uPioFCpFOITpuSBaO45MdJ4O/view?usp=sharing)  
-- [Decision Trees](https://drive.google.com/file/d/1Sd_LN-WE_W3Zo-YZrMBe90H2i4_ieFRs/view)
+- [Decision Trees](https://drive.google.com/file/d/1Sd_LN-WE_W3Zo-YZrMBe90H2i4_ieFRs/view)  
 
-- [Guía de la sesión](https://docs.google.com/presentation/d/1r6ZGDl7aZQMklrNynYCFuOqmXREhAyOBMlwVXasMog0/edit?usp=sharing)
+- Guía a Seguir:
+- [Guía de la sesión](https://drive.google.com/open?id=1_DqcoxBstgVjFA-lRRRycUnGVWn_7h2S)  
+
 -------
 **#3 - FI, Random Forest Deep Dive:**  
 Objetivo: Asentar conceptos de ML, entender gracias a los árboles de decisión como usar Random Forest.
