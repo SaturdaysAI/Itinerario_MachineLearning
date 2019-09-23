@@ -9,7 +9,7 @@ Para trabajar con los notebooks puedes:
 3) Ejectuarlo con Jupyter online usando mybinder.
 
 __Para poder graduarse en el programa AI Saturdays, con la mención "_Machine Learning_", hay que superar al menos el contenido de este itinerario.__
-__Estos ejercicios están pensandos para representar poco más del 50% del contenido de la fase "_code2learn_" en AI Saturdays, por tanto, en tu ciudad seguro hacéis muchas más cosas y más divertidas, pero haz estos ejercicios para asegurar unos fundamentos fuertes sobre los que luego construiras un proyecto espectacular en la fase "_build2learn_".__
+__Estos ejercicios están pensandos para representar poco más del 50% del contenido de la fase "_code2learn_" en AI Saturdays, por tanto, en tu ciudad seguro hacéis muchas más cosas y más divertidas, pero haz estos ejercicios para asegurar unos fundamentos fuertes sobre los que luego construirás un proyecto espectacular en la fase "_build2learn_".__
 
 ### Troncal:
 
@@ -124,7 +124,7 @@ Objetivo: entender conceptos básicos de NLP y cómo resolver problemas de NLP
 
 
 -------
-**ML project pipeline and basic libraries(DL Session):** Clase maistral
+**ML project pipeline and basic libraries(DL Session):** Clase magistral
 
 - [Notebooks](https://github.com/pablotalavante/ai6-madrid-demos/tree/master/session_1)  
 - [slides](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  
