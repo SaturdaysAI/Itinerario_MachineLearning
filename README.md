@@ -94,7 +94,11 @@ Objetivo: Una vez abordados problemas de aprendizaje supervisado, entender como 
 - [slides](https://drive.google.com/file/d/1YdA-HHYP1V05QgvwLCvfnuuau67Zl38n/view) 
 - [video PCA](https://www.youtube.com/watch?v=-AswHf7h0I4&feature=youtu.be), [video Clustering](https://www.youtube.com/watch?v=eVplCo-w4XE&feature=youtu.be)  
 
+- [Guía](https://drive.google.com/open?id=1NfbZHwfZcwljP9bM59D2oDQkIb-6tFMp)
 - [Exercise UL](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment07_unsupervised_learning.ipynb), [solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment07_unsupervised_learning_solution.ipynb)
+- [Notebooks complementarios](https://drive.google.com/drive/folders/1dHqzkAE2x9_CZwnO2RSXx65OHq6-8q0V?usp=sharing)
+- [Tutorial PCA](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
+- [Tutorial K Means](https://medium.com/code-to-express/k-means-clustering-for-beginners-using-python-from-scratch-f20e79c8ad00)
 
 -------
 **#5 - Neural Networks, Gradient Descent:**  
