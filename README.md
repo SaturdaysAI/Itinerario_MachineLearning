@@ -90,7 +90,7 @@ Para profundizar mas en RF:
 **#4 - Unsupervised learning:**  
 Objetivo: Una vez abordados problemas de aprendizaje supervisado, entender como hacerlo con aprendizaje no-supervisado.
 
-- [Notebook] Falta
+- [Notebook](https://drive.google.com/drive/folders/1TvSH2Yzp9ZWO0VCdakGdeMADZ9nZpx3w?usp=sharing)
 - [slides](https://drive.google.com/file/d/1YdA-HHYP1V05QgvwLCvfnuuau67Zl38n/view) 
 - [video PCA](https://www.youtube.com/watch?v=-AswHf7h0I4&feature=youtu.be), [video Clustering](https://www.youtube.com/watch?v=eVplCo-w4XE&feature=youtu.be)  
 
