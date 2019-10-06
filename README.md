@@ -112,6 +112,7 @@ Objetivo: entender conceptos básicos de Deep Learning y usarlos para un primer 
 
 - [GD Challenge](https://www.kaggle.com/kashnitsky/assignment-10-gradient-boosting-and-flight-delays)   
 - [Challenge Keras ECG](https://github.com/pablotalavante/ai6-madrid-demos/blob/master/session_1/AI6-demo.ipynb)
+- [MNIST](https://www.kaggle.com/c/digit-recognizer)
 
 -------
 **#6 - NLP:**  
