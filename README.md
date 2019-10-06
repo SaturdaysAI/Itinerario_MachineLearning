@@ -104,12 +104,14 @@ Objetivo: Una vez abordados problemas de aprendizaje supervisado, entender como 
 **#5 - Neural Networks, Gradient Descent:**  
 Objetivo: entender conceptos básicos de Deep Learning y usarlos para un primer aproach
 
-- Notebook NN Falta 
-- slides NN Falta
-- [GD part 1 video](https://www.youtube.com/watch?v=g0ZOtzZqdqk&feature=youtu.be)  
-- [GD part 2 video](https://www.youtube.com/watch?v=V5158Oug4W8&feature=youtu.be)
+- [Notebook](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson8_mnist_sgd.ipynb)
+- [Intro to Deep Learning](https://www.youtube.com/watch?v=5v1JnYv_yWs&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [Video GD](https://www.youtube.com/watch?v=DzE0eSdy5Hk)
+- [Tutorial](https://towardsdatascience.com/meet-artificial-neural-networks-ae5939b1dd3a)
+- [Keras](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/tutorials/Keras_easy_way_to_construct_the_Neural_Networks_fixed.ipynb)
 
 - [GD Challenge](https://www.kaggle.com/kashnitsky/assignment-10-gradient-boosting-and-flight-delays)   
+- [Challenge Keras ECG](https://github.com/pablotalavante/ai6-madrid-demos/blob/master/session_1/AI6-demo.ipynb)
 
 -------
 **#6 - NLP:**  
