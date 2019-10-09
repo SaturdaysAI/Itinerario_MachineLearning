@@ -99,6 +99,7 @@ Objetivo: Una vez abordados problemas de aprendizaje supervisado, entender como 
 - [Notebooks complementarios](https://drive.google.com/drive/folders/1dHqzkAE2x9_CZwnO2RSXx65OHq6-8q0V?usp=sharing)
 - [Tutorial PCA](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
 - [Tutorial K Means](https://medium.com/code-to-express/k-means-clustering-for-beginners-using-python-from-scratch-f20e79c8ad00)
+- [Guía Sesión](https://docs.google.com/presentation/d/1xV8BZ22HHFKiP17vD-1RAPVALglPZmqQFwTHre4Kvgc/edit?usp=sharing)
 
 -------
 **#5 - Neural Networks, Gradient Descent:**  
