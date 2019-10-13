@@ -2,6 +2,7 @@
 
 # Itinerario_MachineLearning (_work in progress_)
 ## Itinerario oficial Machine Learning - Saturdays.ai
+Este itinerario está inspirado en los cursos de "Intro to Machine Learning for Coders" de Fast.ai, "ML Course" de ODS, y "Machine Learning for good" de Delta Analytics.
 
 Para trabajar con los notebooks puedes:
 1) clonar en tu equipo este contenido `git clone https://github.com/SaturdaysAI/Itinerario_MachineLearning`
@@ -162,8 +163,6 @@ Objetivo: entender conceptos básicos de NLP y cómo resolver problemas de NLP
 
 
 Resto de sesiones hasta el ___Demo Day___ están dedicadas a la fase "_build2learn_", donde construiras un proyecto abierto con impacto social utilizando _deep learning_, puedes ver proyectos de otras ediciones [aqui](http://github.com/saturdaysai/projects)
-
-Este itinerario está inspirado en los cursos de "Intro to Machine Learning for Coders" de Fast.ai y "Machine Learning for good" de Delta Analytics.
 
 Igualmente, sientete libre de compartir o proponer mejoras levantando "issues" o enviando un PR.
 
