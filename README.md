@@ -87,6 +87,9 @@ Para profundizar mas en RF:
 - [Exercise Wine Quality](https://github.com/margobra8/rf-wine-quality-predictor/blob/master/wine-prediction.ipynb),[data](https://github.com/margobra8/rf-wine-quality-predictor/tree/master/data).  
 - [Pokemon Battle Winner](https://colab.research.google.com/drive/1DykdlA5VjHSR-Y0-5yrWVSo59-cBJnmn) [Data](https://drive.google.com/drive/folders/15oFHF9srbffIdGOtznYgGZ7GriL1aFqi?usp=sharing)  
 
+- Guía a Seguir:
+- [Guía de la sesión]()  
+
 -------
 **#4 - Unsupervised learning:**  
 Objetivo: Una vez abordados problemas de aprendizaje supervisado, entender como hacerlo con aprendizaje no-supervisado.
@@ -100,7 +103,10 @@ Objetivo: Una vez abordados problemas de aprendizaje supervisado, entender como 
 - [Notebooks complementarios](https://drive.google.com/drive/folders/1dHqzkAE2x9_CZwnO2RSXx65OHq6-8q0V?usp=sharing)
 - [Tutorial PCA](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
 - [Tutorial K Means](https://medium.com/code-to-express/k-means-clustering-for-beginners-using-python-from-scratch-f20e79c8ad00)
-- [Guía Sesión](https://docs.google.com/presentation/d/1xV8BZ22HHFKiP17vD-1RAPVALglPZmqQFwTHre4Kvgc/edit?usp=sharing)
+
+
+- Guía a Seguir:
+- [Guía de la sesión](https://docs.google.com/presentation/d/1xV8BZ22HHFKiP17vD-1RAPVALglPZmqQFwTHre4Kvgc/edit?usp=sharing) 
 
 -------
 **#5 - Neural Networks, Gradient Descent:**  
@@ -116,6 +122,9 @@ Objetivo: entender conceptos básicos de Deep Learning y usarlos para un primer 
 - [Challenge Keras ECG](https://github.com/pablotalavante/ai6-madrid-demos/blob/master/session_1/AI6-demo.ipynb)
 - [MNIST](https://www.kaggle.com/c/digit-recognizer)
 
+- Guía a Seguir:
+- [Guía de la sesión]() 
+
 -------
 **#6 - NLP:**  
 Objetivo: entender conceptos básicos de NLP y cómo resolver problemas de NLP
@@ -130,15 +139,10 @@ Objetivo: entender conceptos básicos de NLP y cómo resolver problemas de NLP
 - [Exercise Text classifyer]() [Data](https://github.com/nanirg/2016-campaign)
 - [Exercise IMBD] ¿? 
 - [Sarcasm Detection](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment04_sarcasm_detection_with_logit.ipynb), [Solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment04_sarcasm_detection_with_logit_solution.ipynb)
-
+- Guía a Seguir:
+- [Guía de la sesión]() 
 
 -------
-**ML project pipeline and basic libraries(DL Session):** Clase magistral
-
-- [Notebooks](https://github.com/pablotalavante/ai6-madrid-demos/tree/master/session_1)  
-- [slides](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view)  
-- Hands-On ML and TensorFlow
-- Keras IntroFalta
 
 
 ### Extras:
