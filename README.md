@@ -16,7 +16,7 @@ __Estos ejercicios están pensandos para representar poco más del 50% del conte
 
 
 **#1 - Cleaning & Exploratory Data Pandas:**    
-Objetivo: familiarizarse con Pandas, como limpiar y explorar datos. Estructuras de datos en python.  
+Objetivo: familiarizarse con Pandas y Numpy, como limpiar y explorar datos. Estructuras de datos en python. Dinámica: a mitad de la sesión cambia a los fellows de mesa.
 
 - [Notebooks Repaso](https://github.com/SaturdaysAI/Itinerario_MachineLearning/tree/master/module_1_introduction) 
 - [Notebook Pandas](https://drive.google.com/open?id=1RbQNx_rIuxjDU3AYWWwB0w7iLmfv-34A)
@@ -27,7 +27,7 @@ Objetivo: familiarizarse con Pandas, como limpiar y explorar datos. Estructuras 
 
 -------
 **#2 - Regression, Decision Trees:**  
-Objetivo: Empezar a entender conceptos básicos, como montar un modelo de ML, empezar a usar sci-kit learn a través de regresiones lineales y árboles de decisión.  
+Objetivo: Empezar a entender conceptos básicos, como montar un modelo de ML, empezar a usar sci-kit learn a través de regresiones lineales y árboles de decisión.  Dinámicas: Kahoot + premio al equipo que gane el challenge.
 
 (Paso 1) Como desarrollar un modelo:  
 
@@ -110,7 +110,7 @@ Objetivo: Una vez abordados problemas de aprendizaje supervisado, entender como 
 
 -------
 **#5 - Neural Networks, Gradient Descent:**  
-Objetivo: entender conceptos básicos de Deep Learning y usarlos para un primer aproach
+Objetivo: entender conceptos básicos de Deep Learning y usarlos para un primer aproach.
 
 - [Notebook](https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson8_mnist_sgd.ipynb)
 - [Intro to Deep Learning](https://www.youtube.com/watch?v=5v1JnYv_yWs&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
