@@ -123,7 +123,7 @@ Objetivo: entender conceptos básicos de Deep Learning y usarlos para un primer 
 - [MNIST](https://www.kaggle.com/c/digit-recognizer)
 
 - Guía a Seguir:
-- [Guía de la sesión]() 
+- [Guía de la sesión](https://docs.google.com/presentation/d/1_uvmIzQgtfTJcSowPP_2BjtzMxtiusbn1RQHDaNV4cA/edit?usp=sharing) 
 
 -------
 **#6 - NLP:**  
