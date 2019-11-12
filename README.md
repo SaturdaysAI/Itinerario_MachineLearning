@@ -140,7 +140,7 @@ Objetivo: entender conceptos básicos de NLP y cómo resolver problemas de NLP
 - [Exercise IMBD] ¿? 
 - [Sarcasm Detection](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment04_sarcasm_detection_with_logit.ipynb), [Solution](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment04_sarcasm_detection_with_logit_solution.ipynb)
 - Guía a Seguir:
-- [Guía de la sesión]() 
+- [Guía de la sesión](https://drive.google.com/open?id=17-sGFAfqZ93e713-yIPaW_vXT1E74b8Y7dfxz2ncWLA) Está todo en la guía
 
 -------
 
